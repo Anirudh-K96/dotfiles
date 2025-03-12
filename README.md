@@ -1,2 +1,2 @@
-# hyprlanddots
+# Hyprland and Other Program Dotfiles
 These are the dotfiles that I use with Hyprdots (a hyprland skin by Prasanth Rangan)
