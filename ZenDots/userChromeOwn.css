@@ -1,0 +1,45 @@
+ /* Hide the audio playing and muted icons in tabs */
+
+.tab-icon-overlay[muted],
+
+.tab-icon-overlay[soundplaying] {
+
+display: none !important;
+
+}
+
+#navigator-toolbox{
+  background-color:rgba(0,0,0,0) !important;
+}
+#main-window{
+background-color: rgba(41,47,52,0.2) !important;
+-moz-appearance: none !important;
+background-image: none !important;
+--zen-main-browser-background: transparent !important;
+}
+#urlbar-input{
+ background:transparent !important;
+}
+#urlbar{
+  background:transparent !important;
+  backdrop-filter: blur(15px) !important;
+  background-color:rgb(0,0,0,0.4) !important;
+}
+#urlbar-background{
+   background-color:rgba(40,40,40,0.1) !important;
+   }
+.urlbarView-row {
+  background-color: rgba(40,40,40,0.1) !important;
+}
+.urlbarView-row:hover {
+  background-color: rgba(0,0,0,0.3) !important;
+}
+.urlbarView-row[selected] {
+  background-color: rgba(0, 0, 0, 0.4) !important;
+  color: var(--urlbarView-highlight-color);
+}
+.titlebar-buttonbox-container{
+  display:none !important;
+}
+
+
