@@ -10,3 +10,4 @@
 4. Discord
 5. xorg-xhost
 6. Timeshift
+7. tty-ms-fonts (from the AUR)
