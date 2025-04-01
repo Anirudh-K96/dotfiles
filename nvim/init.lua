@@ -17,7 +17,10 @@ vim.o.termguicolors = true
 
 -- Configure Catppuccin (choose your preferred flavor: "latte", "frappe", "macchiato", "mocha")
 require("catppuccin").setup({
-  flavour = "mocha",
+     custom_highlights = {
+        Normal = { bg = "#000000" },
+    },
+    flavour = "mocha",
   -- additional configuration options can go here
 })
 
