@@ -42,4 +42,9 @@ background-image: none !important;
   display:none !important;
 }
 
+/* Fix for transparency not working 1.10.1b update */
+:root {
+  --zen-themed-toolbar-bg-transparent: transparent !important;
+}
+
 
