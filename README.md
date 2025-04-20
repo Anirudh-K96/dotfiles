@@ -5,9 +5,13 @@
 
 ### Packages to Install : 
 1. Zen Browser
-2. Neovim
+2. Neovim (Lazyvim)
 3. Pamac
-4. Discord
-5. xorg-xhost
-6. Timeshift
-7. tty-ms-fonts (from the AUR)
+4. Vesktop
+5. Kitty
+6. Spotify (with Spicetify)
+7. Starship
+8. Fish Shell
+9. xorg-xhost
+10. Timeshift
+11. tty-ms-fonts, Jetbrains Mono Nerd Font, Cascadia Cove Mono Nerd Font
